@@ -13,7 +13,9 @@
   run npm i in the root directory to install dependencies.
   # Usage
   In order to use this app
-  run npm start.
+  run npm start. 
+  Watch this video for more info
+  https://drive.google.com/file/d/1M-tiF9Axr0YWkzkeYSqdoVV7ZAkXsMrf/view
   # License
   This project has no licence.
   # Contributor: 
